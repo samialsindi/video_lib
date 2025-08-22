@@ -1,0 +1,6 @@
+{
+  "name": "Video Library Manager v8",
+  "description": "An application to manage a local video library. It automatically generates thumbnails, allows rating, tagging, and tracking watched status.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
